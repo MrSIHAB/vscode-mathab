@@ -1,5 +1,6 @@
 {
   "name": "mathab-theme",
+  "publisher":"EIGFA",
   "displayName": "mathab",
   "description": "A lite weight neon theme extension for vs code. I specially desinged it for me as I use a low quality laptop and my favorite color combinations. You can use it.",
   "version": "0.0.1",
