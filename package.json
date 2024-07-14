@@ -1,21 +1,42 @@
 {
   "name": "mathab-theme",
   "publisher":"EIGFA",
-  "displayName": "mathab",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "author": {
+    "name": "SIHAB", 
+    "url": "https://sbstudio.surge.sh",
+    "email": "mrsihab@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrsihab/vscode-mathab"
+  },
+  "displayName": "Mathab Theme",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#111122",
+    "theme": "dark"
+  },
   "description": "A lite weight neon theme extension for vs code. I specially desinged it for me as I use a low quality laptop and my favorite color combinations. You can use it.",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.91.0"
   },
   "categories": [
     "Themes"
   ],
+  "bugs": {
+    "email": "mrsihab@hotmail.com",
+    "url": "https://github.com/mrsihab/vscode-mathab/issues"
+  },
+  "homepage": "https://github.com/MrSIHAB/vscode-mathab/blob/main/README.md",
   "contributes": {
     "themes": [
       {
         "label": "Mathab Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mathab Theme-color-theme.json"
+        "path": "themes/mathab-color-theme.json"
       }
     ]
   }
