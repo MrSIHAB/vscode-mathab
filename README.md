@@ -1,5 +1,21 @@
 # Mathab Theme
 
+### Installation
+
+> Try any of these one bellow
+
+Open VSCode and press `ctrl`+`p` then paste it and hit `Enter`:
+
+```code
+ext install eigfa.mathab-theme
+```
+
+[VSIX method](#for-codium-users)
+
+<!-- [![icon](images/icon.png)](https://marketplace.visualstudio.com/items/eigfa.mathab-theme) -->
+
+### About Mathab
+
 Mathab Theme is a VScode / Codium theme I specially designed for myself.  
 I was searching a well desinged and Coding friendly theme. But I didn't find a suitable one. Some
 may looks good with my JavaScript codes, But not looks good with my flutter codes. And the
@@ -8,10 +24,6 @@ become hard to identify codes.
 Another problem was that I like some keywords to be italic. But not every theme provide that exept Material Theme.  
 So I thought to change the settings.json file. But later I thought about making and extension. So I created
 One for me. Then I made it available in marketplace so that everyone can use it.
-
-[![icon](images/icon.png)](https://marketplace.visualstudio.com/items/eigfa.mathab-theme)
-
----
 
 The name **Mathab** is from **Mat**erial Keyword and my name Si**hab**. I made it comportable
 for Good looking and easy code catching based on their usecases and priority. For example I made css
@@ -26,8 +38,8 @@ _Javascript_
 _TypeScript_
 ![typescript](images/typescript.png)
 
-<!-- _Dart/Flutter_
-![dart](images/dart.png) -->
+_Dart/Flutter_
+![dart](images/dart.png)
 
 _JSON_
 ![json preview](images/json.png)
@@ -40,15 +52,15 @@ _CSS_
 
 ## For Codium User's
 
-If you don't find this extension in Codium marketplace, then download this project or clone
+If you don't find this extension in Codium marketplace, then download this project from top code section or clone
 this project.
 
 ```bash
-git clone https://github.com/MrSIHAB/vscode-mathab
+git clone https://github.com/MrSIHAB/vscode-mathab.git
 ```
 
 open codium > extension(`ctrl`+`shift`+`X`) > click 3 dot at top > install from VSIX.  
-Now locat the project `cloned/extracted` directory and click on done.
+Now locat the project's `cloned/extracted` directory and click on done.
 
 Make sure project file is selected. Not any other file.
 

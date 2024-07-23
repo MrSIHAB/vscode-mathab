@@ -45,13 +45,15 @@
       }
     },
     {
+      "name": "Keyword like Equal, Clone, Semiclone",
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#00aaff"
+      }
+    },
+    {
       "name": "Keyword, Storage",
-      "scope": [
-        "keyword",
-        "storage.type",
-        "storage.modifier",
-        "string.unquoted"
-      ],
+      "scope": ["storage.type", "storage.modifier", "string.unquoted"],
       "settings": {
         "foreground": "#00aaff",
         "fontStyle": "italic"
