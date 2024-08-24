@@ -1,4 +1,9 @@
-# Mathab Theme
+<div align="center">
+
+# VSCode Mathab Theme
+
+<a href="https://www.buymeacoffee.com/mrsihab"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Sihab a coffee&emoji=&slug=mrsihab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+</div>
 
 ### Installation
 
@@ -50,18 +55,21 @@ _HTML_
 _CSS_
 ![json preview](images/css.png)
 
-## For Codium User's
+## Codium
 
-If you don't find this extension in Codium marketplace, then download this project from top code section or clone
-this project.
+Mathab is available on [OpenVSX](https://open-vsx.org/extension/EIGFA/mathab-theme).  
+That means you can easily install it from codium too.
+For VSIX file, refer to the [OpenVSX](https://open-vsx.org/extension/EIGFA/mathab-theme) page and download the VSIX file there.
 
-```bash
-git clone https://github.com/MrSIHAB/vscode-mathab.git
-```
+<div align="center">
 
-open codium > extension(`ctrl`+`shift`+`X`) > click 3 dot at top > install from VSIX.  
-Now locat the project's `cloned/extracted` directory and click on done.
+#  Buy me a coffee
 
-Make sure project file is selected. Not any other file.
+Your happiness and support make these projects. If you really like this project and you got it helpfull,  
+___Can I have a cup of coffee___
 
-Now You're Done. **_Happy coding..._**
+![BuyMeACoffee](https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif)
+  
+</div>
+
+
