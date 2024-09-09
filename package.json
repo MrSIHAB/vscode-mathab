@@ -18,7 +18,7 @@
     "theme": "dark"
   },
   "description": "A lite weight neon theme extension for vs code. I specially desinged it for me as I use a low quality laptop and my favorite color combinations. You can use it.",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "pricing": "Free",
   "engines": {
     "vscode": "^1.91.0"
