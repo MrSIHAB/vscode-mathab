@@ -2,24 +2,11 @@
 
 # VSCode Mathab Theme
 
-<a href="https://www.buymeacoffee.com/mrsihab"><img src="https://img.buymeacoffee.com/button-api/?text=Buy Sihab a coffee&emoji=&slug=mrsihab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/mrsihab"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mrsihab&button_colour=00DFDF&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 </div>
 
-### Installation
-
-> Try any of these one bellow
-
-Open VSCode and press `ctrl`+`p` then paste it and hit `Enter`:
-
-```code
-ext install eigfa.mathab-theme
-```
-
-[VSIX method](#for-codium-users)
-
-<!-- [![icon](images/icon.png)](https://marketplace.visualstudio.com/items/eigfa.mathab-theme) -->
-
-### About Mathab
+## About Mathab
 
 Mathab Theme is a VScode / Codium theme I specially designed for myself.  
 I was searching a well desinged and Coding friendly theme. But I didn't find a suitable one. Some
@@ -34,6 +21,14 @@ The name **Mathab** is from **Mat**erial Keyword and my name Si**hab**. I made i
 for Good looking and easy code catching based on their usecases and priority. For example I made css
 identifiers(Class, Id, Tag) more highlighted than css properties. A developer will try to find css
 identifiers. But the property inside it don't need to be highlighted.
+
+## Installation
+
+```sh
+ext install eigfa.mathab-theme
+```
+
+- Open VSCode/Codium > press `ctrl`+`p` then paste it and hit `Enter`
 
 ### Here's some preview of the Extension.
 
@@ -63,13 +58,11 @@ For VSIX file, refer to the [OpenVSX](https://open-vsx.org/extension/EIGFA/matha
 
 <div align="center">
 
-#  Buy me a coffee
+# Buy me a coffee
 
-Your happiness and support make these projects. If you really like this project and you got it helpfull,  
-___Can I have a cup of coffee___
+Your sopport make these projects possible. If you found this project really helpful and you want to support it,  
+**_you can help me by buying a cup of coffee._**
 
-![BuyMeACoffee](https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif)
-  
+[![BuyMeACoffee](https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif)](https://www.buymeacoffee.com/mrsihab)
+
 </div>
-
-
