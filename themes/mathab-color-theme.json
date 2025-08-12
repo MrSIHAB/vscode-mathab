@@ -286,7 +286,7 @@
       "name": "HTML Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#FF0000"
+        "foreground": "#22FFaa"
       }
     },
     {
